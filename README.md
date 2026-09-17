@@ -1,11 +1,17 @@
-# SkillPilot
-Learn. Practice. Assess. Advance.
-SkillPilot is an interactive enterprise technology learning platform designed to help learners build practical knowledge from fundamentals through expert-level concepts.
+# Learn & Guide
 
-The platform currently provides dedicated learning experiences for:
+A static browser-based learning portal prototype for Pega PRPC, Microsoft Azure Cloud, and DevOps.
 
-Pega PRPC
-Microsoft Azure Cloud
-DevOps
+## Run locally
 
-SkillPilot combines structured learning paths, searchable technical knowledge, practical examples, scenario-based exercises, quizzes, knowledge assessments, and personalized learning recommendations within a modern browser-based experience.
+Open `index.html` in a browser. The app has no backend or build dependency and stores bookmarks in browser local storage.
+
+## Included
+
+- Dashboard-first learning workspace
+- Technology path progress cards
+- Continue-learning and recommendation surfaces
+- Bookmark persistence
+- Responsive layout for desktop and mobile
+- Search and Ctrl/Cmd+K command palette
+- Local profile-save feedback
